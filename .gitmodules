@@ -4,3 +4,6 @@
 [submodule "Go-learn"]
 	path = Go-learn
 	url = git@github.com:YHYJ/Go-learn.git
+[submodule "TensorFlow-learn"]
+	path = TensorFlow-learn
+	url = git@github.com:YHYJ/TensorFlow-learn.git
