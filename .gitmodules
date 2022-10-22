@@ -1,3 +1,6 @@
 [submodule "Python-learn"]
 	path = Python-learn
 	url = git@github.com:YHYJ/Python-learn.git
+[submodule "Go-learn"]
+	path = Go-learn
+	url = git@github.com:YHYJ/Go-learn.git
