@@ -10,3 +10,6 @@
 [submodule "Rust-learn"]
 	path = Rust-learn
 	url = git@github.com:YHYJ/Rust-learn.git
+[submodule "Nim-learn"]
+	path = Nim-learn
+	url = git@github.com:YHYJ/Nim-learn.git
