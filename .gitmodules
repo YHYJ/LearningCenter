@@ -7,3 +7,6 @@
 [submodule "TensorFlow-learn"]
 	path = TensorFlow-learn
 	url = git@github.com:YHYJ/TensorFlow-learn.git
+[submodule "Rust-learn"]
+	path = Rust-learn
+	url = git@github.com:YHYJ/Rust-learn.git
