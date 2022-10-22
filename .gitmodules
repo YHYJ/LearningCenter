@@ -25,3 +25,6 @@
 [submodule "Data-Analyze-learn"]
 	path = Data-Analyze-learn
 	url = git@github.com:YHYJ/Data-Analyze-learn.git
+[submodule "C-learn"]
+	path = C-learn
+	url = git@github.com:YHYJ/C-learn.git
