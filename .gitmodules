@@ -28,3 +28,6 @@
 [submodule "C-learn"]
 	path = C-learn
 	url = git@github.com:YHYJ/C-learn.git
+[submodule "BlockChain-learn"]
+	path = BlockChain-learn
+	url = git@github.com:YHYJ/BlockChain-learn.git
