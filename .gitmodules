@@ -16,3 +16,6 @@
 [submodule "Linux-learn"]
 	path = Linux-learn
 	url = git@github.com:YHYJ/Linux-learn.git
+[submodule "Flask-learn"]
+	path = Flask-learn
+	url = git@github.com:YHYJ/Flask-learn.git
