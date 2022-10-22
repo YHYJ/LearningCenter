@@ -13,3 +13,6 @@
 [submodule "Nim-learn"]
 	path = Nim-learn
 	url = git@github.com:YHYJ/Nim-learn.git
+[submodule "Linux-learn"]
+	path = Linux-learn
+	url = git@github.com:YHYJ/Linux-learn.git
