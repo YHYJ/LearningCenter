@@ -13,9 +13,6 @@
 [submodule "Nim-learn"]
 	path = Nim-learn
 	url = git@github.com:YHYJ/Nim-learn.git
-[submodule "Linux-learn"]
-	path = Linux-learn
-	url = git@github.com:YHYJ/Linux-learn.git
 [submodule "Flask-learn"]
 	path = Flask-learn
 	url = git@github.com:YHYJ/Flask-learn.git
@@ -37,3 +34,6 @@
 [submodule "Pygame-learn"]
 	path = Pygame-learn
 	url = git@github.com:YHYJ/Pygame-learn.git
+[submodule "Linux-learn"]
+	path = Linux-learn
+	url = git@github.com:YHYJ/Linux-learn.git
