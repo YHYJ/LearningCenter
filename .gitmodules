@@ -13,3 +13,6 @@
 [submodule "Flask-learn"]
 	path = Flask-learn
 	url = git@github.com:YHYJ/Flask-learn.git
+[submodule "Go-learn"]
+	path = Go-learn
+	url = git@github.com:YHYJ/Go-learn.git
