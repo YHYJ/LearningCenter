@@ -25,3 +25,6 @@
 [submodule "Pygame-learn"]
 	path = Pygame-learn
 	url = git@github.com:YHYJ/Pygame-learn.git
+[submodule "Python-Source_Code-learn"]
+	path = Python-Source_Code-learn
+	url = ../Python-Source_Code-learn.git
