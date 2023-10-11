@@ -28,3 +28,9 @@
 [submodule "Python-Source_Code-learn"]
 	path = Python-Source_Code-learn
 	url = ../Python-Source_Code-learn.git
+[submodule "Rust-learn"]
+	path = Rust-learn
+	url = ../Rust-learn.git
+[submodule "TensorFlow-learn"]
+	path = TensorFlow-learn
+	url = ../TensorFlow-learn.git
