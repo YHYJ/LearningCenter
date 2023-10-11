@@ -7,3 +7,6 @@
 [submodule "Data-Analyze-learn"]
 	path = Data-Analyze-learn
 	url = git@github.com:YHYJ/Data-Analyze-learn.git
+[submodule "Database-learn"]
+	path = Database-learn
+	url = git@github.com:YHYJ/Database-learn.git
