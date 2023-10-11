@@ -22,3 +22,6 @@
 [submodule "Nim-learn"]
 	path = Nim-learn
 	url = git@github.com:YHYJ/Nim-learn.git
+[submodule "Pygame-learn"]
+	path = Pygame-learn
+	url = git@github.com:YHYJ/Pygame-learn.git
