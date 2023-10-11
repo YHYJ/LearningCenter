@@ -1,30 +1,30 @@
 [submodule "BlockChain-learn"]
 	path = BlockChain-learn
-	url = git@github.com:YHYJ/BlockChain-learn.git
+	url = ../BlockChain-learn.git
 [submodule "C-learn"]
 	path = C-learn
-	url = git@github.com:YHYJ/C-learn.git
+	url = ../C-learn.git
 [submodule "Data-Analyze-learn"]
 	path = Data-Analyze-learn
-	url = git@github.com:YHYJ/Data-Analyze-learn.git
+	url = ../Data-Analyze-learn.git
 [submodule "Database-learn"]
 	path = Database-learn
-	url = git@github.com:YHYJ/Database-learn.git
+	url = ../Database-learn.git
 [submodule "Flask-learn"]
 	path = Flask-learn
-	url = git@github.com:YHYJ/Flask-learn.git
+	url = ../Flask-learn.git
 [submodule "Go-learn"]
 	path = Go-learn
-	url = git@github.com:YHYJ/Go-learn.git
+	url = ../Go-learn.git
 [submodule "Linux-learn"]
 	path = Linux-learn
-	url = git@github.com:YHYJ/Linux-learn.git
+	url = ../Linux-learn.git
 [submodule "Nim-learn"]
 	path = Nim-learn
-	url = git@github.com:YHYJ/Nim-learn.git
+	url = ../Nim-learn.git
 [submodule "Pygame-learn"]
 	path = Pygame-learn
-	url = git@github.com:YHYJ/Pygame-learn.git
+	url = ../Pygame-learn.git
 [submodule "Python-Source_Code-learn"]
 	path = Python-Source_Code-learn
 	url = ../Python-Source_Code-learn.git
