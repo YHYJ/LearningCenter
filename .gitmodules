@@ -16,3 +16,6 @@
 [submodule "Go-learn"]
 	path = Go-learn
 	url = git@github.com:YHYJ/Go-learn.git
+[submodule "Linux-learn"]
+	path = Linux-learn
+	url = git@github.com:YHYJ/Linux-learn.git
