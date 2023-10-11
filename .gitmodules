@@ -34,3 +34,6 @@
 [submodule "TensorFlow-learn"]
 	path = TensorFlow-learn
 	url = ../TensorFlow-learn.git
+[submodule "Python-learn"]
+	path = Python-learn
+	url = ../Python-learn.git
