@@ -10,3 +10,6 @@
 [submodule "Database-learn"]
 	path = Database-learn
 	url = git@github.com:YHYJ/Database-learn.git
+[submodule "Flask-learn"]
+	path = Flask-learn
+	url = git@github.com:YHYJ/Flask-learn.git
