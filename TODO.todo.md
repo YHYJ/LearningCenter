@@ -1,4 +1,3 @@
-- [ ] 把所有使用绝对路径方式添加的子模块改为相对路径 (2023-10-11 10:44)
 - [ ] 解决Python-learn添加为子模块时clone-repos报错'entry not found'的问题 (2023-10-11 10:43)
 - [ ] Python问题： (2020-07-17 17:19) (2020-08-12 14:22)
   - [ ] Python魔法方法：https://rszalski.github.io/magicmethods/ (2020-08-12 14:22)
@@ -11,3 +10,4 @@
   - [ ] https://github.com/drdeimos/polybar_another_battery/blob/master/polybar_ab.go (2020-08-05 17:42)
   - [ ] https://help.aliyun.com/product/44282.html?spm=a2c4g.11186623.6.540.5dab50a4hL7Hmx (2020-08-05 17:44)
   - [ ] https://dysms.console.aliyun.com/dysms.htm?spm=5176.sms-sign.101.6.3ad73f87o90vw3&accounttraceid=5f1e463662a74e95ad45d803679a4a43viou#/overview (2020-08-05 17:44)
+- [X] 把所有使用绝对路径方式添加的子模块改为相对路径 (2023-10-11 10:44)
